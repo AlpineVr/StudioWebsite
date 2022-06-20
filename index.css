@@ -66,7 +66,7 @@ nav ul li{
 
 nav ul li a{
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 .content h1{
@@ -74,12 +74,12 @@ nav ul li a{
     font-weight: 100;
     margin-top: 24px;
     margin-bottom: 15px;
-    color: white;
+    color: black;
 }
 
 .content p{
     font-size: 20px;
-    color: white;
+    color: black;
 }
 
 .content {
@@ -95,14 +95,14 @@ nav ul li a{
 
 .social-links a {
     text-decoration: none;
-    color: white;
+    color: black;
     padding-right: 20px;
     font-size: 14px;
 }
 
 .social-links p {
     text-decoration: none;
-    color: white;
+    color: black;
     padding-top: 20px;
     font-size: 14px;
 }
