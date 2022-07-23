@@ -48,6 +48,10 @@
     align-items: center;
 }
 
+.navbar a {
+    color: #ffff;
+}
+
 .logo {
     width: 160px;
     cursor: pointer;
